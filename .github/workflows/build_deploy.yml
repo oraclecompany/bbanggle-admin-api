@@ -59,4 +59,3 @@ jobs:
       - name: deploy run 
         run: |
           sudo sh /home/ubuntu/run.sh
- 
